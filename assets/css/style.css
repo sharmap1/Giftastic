@@ -1,0 +1,35 @@
+.container{
+    margin:20px;
+}
+h1{
+    background-color: peachpuff; 
+    color: darkblue
+}
+#buttons-view{
+    background-color: greenyellow;  
+    padding:10px
+}
+
+#animal-form{
+    background-color: peachpuff; 
+    padding:10px;
+    
+}
+span{
+    font-size:30px;
+}
+#add-animal{
+    background-color:greenyellow; 
+    font-size: 15px; 
+    color: darkblue;
+}
+#gifs-appear-here{
+    background-color: peachpuff; 
+    margin:20px;
+    background-image: url(../images/slothy.jpeg);
+}
+.gif{
+    background-color: peachpuff; 
+    margin:5px; 
+    font-size: 20px;
+}
