@@ -17,13 +17,13 @@ https://sharmap1.github.io/Giftastic/.
 Animals bring happiness all around and so does it to my family and friends.I wanted to create an app that was challenging with logical thinking, yet fun. This was a huge learning and experience which I shared with my friends and family as well.
  
 ## Screenshot
-<img src="assets/images/screenshot.png" width="250" height="350"> 
+<img src="assets/images/screenshot.png" width="350" height="350"> 
 
 ## Installation
 ```
 Git - Installing Git: Run git from terminal
 
-<!-- git clone git://github.com/sharmap1/Trivia-Game.git bash -->
+git clone git://github.com/sharmap1/Giftastic.git bash
 
 ```
 ## Usage
@@ -55,7 +55,7 @@ fundamentals, as well as touched on timing events, and giphy images.
 ```
 The Coding Bootcamp @ University of Washington
 
-Instructor: Joel Stedman & TA s : Nick Aaland, Austin Williams, Ben Vaagen, ?
+Instructor: Joel Stedman & TA s : Nick Aaland, Austin Williams 
 ```
 
 ## License
