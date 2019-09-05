@@ -50,7 +50,8 @@ Open app in any supported web browser i.e. Chrome, Firefox, Safari, etc.
 
 ## History
 ```
-This marks the end of unit 6 where we have learned JavaScript & jQuery fundamentals, as well as touched on timing events, and giphy images.
+This marks the end of unit 6 where we have learned JavaScript & jQuery fundamentals, as well as touched on timing events, 
+and giphy images.
 ```
 ## Credits
 ```
