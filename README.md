@@ -11,13 +11,13 @@ When the user clicks on a button, the page grabs 10 static, non-animated gif ima
 * When the user clicks one of the still GIPHY images, the gif animates. If the user clicks the gif again, it stops playing.
 * This is a lot of fun and excitement!!! So lets get started and click the link below: 
 
-https://sharmap1.github.io/Giftastic/.
+https://sharmap1.github.io/Giftastic/
 
 ## Motivation
 Animals bring happiness all around and so does it to my family and friends.I wanted to create an app that was challenging with logical thinking, yet fun. This was a huge learning and experience which I shared with my friends and family as well.
  
 ## Screenshot
-<img src="assets/images/screenshot.png" width="350" height="350"> 
+<img src="assets/images/screenshot.png" width="250" height="250"> 
 
 ## Installation
 ```
@@ -38,24 +38,25 @@ Open app in any supported web browser i.e. Chrome, Firefox, Safari, etc.
 * jQuery
 * AJAX
 * JSON
+* Google Fonts
+
+
 
 
 ## Contributing
 
-* Pull requests are welcome. For major changes, please open an issue first 
-to discuss what you would like to change.
+* Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 
 ## History
 ```
-This marks the end of unit 6 where we have learned JavaScript & jQuery 
-fundamentals, as well as touched on timing events, and giphy images.
+This marks the end of unit 6 where we have learned JavaScript & jQuery fundamentals, as well as touched on timing events, and giphy images.
 ```
 ## Credits
 ```
 The Coding Bootcamp @ University of Washington
 
-Instructor: Joel Stedman & TA s : Nick Aaland, Austin Williams 
+Instructor: Joel Stedman & TA s : Nicklas Aaland, Austin Williams, Tassa
 ```
 
 ## License

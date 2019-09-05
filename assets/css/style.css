@@ -1,19 +1,25 @@
+body{
+    background-color:dimgray;
+}
 .container{
     margin:20px;
+    font-weight: bold;
 }
 h1{
     background-color: peachpuff; 
-    color: darkblue
+    color: darkblue;
+    font-family: 'Dancing Script', cursive;
 }
 #buttons-view{
     background-color: greenyellow;  
-    padding:10px
+    padding:10px;
 }
-
 #animal-form{
     background-color: peachpuff; 
     padding:10px;
-    
+    color: darkblue;
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px; 
 }
 span{
     font-size:30px;
@@ -22,7 +28,9 @@ span{
     background-color:greenyellow; 
     font-size: 15px; 
     color: darkblue;
-}
+    font-family: 'Cedarville Cursive', cursive;
+    font-weight: bold;
+    }
 #gifs-appear-here{
     background-color: peachpuff; 
     margin:20px;
@@ -32,4 +40,19 @@ span{
     background-color: peachpuff; 
     margin:5px; 
     font-size: 20px;
+    color: darkblue;
+    font-family: 'Cedarville Cursive', cursive;
+    font-weight: bold;
+}
+p{
+    color:papayawhip;
+    font-size: 20px;
+    font-weight:bold;
+    font-family: 'Dancing Script', cursive;
+}
+#animal-input{
+    font-family: 'Cedarville Cursive', cursive;
+    font-weight:bold;
+    background-color: bisque;
+    font-size:20px;
 }
